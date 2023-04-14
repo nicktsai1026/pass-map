@@ -7,7 +7,7 @@ interface Meta {
     "description": string,
 }
 
-const siteMeta: Meta = Metadata.find(meta => meta.page == 'home') || Metadata[0];
+const siteMeta: Meta = Metadata.find(meta => meta.page == 'ontario-parks-passes') || Metadata[2];
 
 export const metadata = {
     title: siteMeta.title,
@@ -15,12 +15,10 @@ export const metadata = {
     keywords: siteMeta.keywords
 };
 
-const HomePage = () => {
+const OnParksPage = () => {
     return (
-        <div className='container mx-auto px-4'>
-            <h1>Welcome to the pass map</h1>
-        </div>
+        <div>Ontario Parks Page</div>
     )
 }
 
-export default HomePage
+export default OnParksPage
