@@ -26,6 +26,12 @@ module.exports = {
         '800': '#1f2937'
       },
       white: '#ffffff'
+    },
+    minHeight: {
+      '1/2': '50vh',
+      '3/5': '60vh',
+      '4/5': '80vh',
+      'screen': '100vh'
     }
   },
   darkMode: 'class',
