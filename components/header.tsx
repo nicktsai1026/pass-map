@@ -10,7 +10,10 @@ const limelight = Limelight({ weight: '400', subsets: ['latin'] });
 
 const Header = () => {
     return (
-        <header className='flex items-center justify-between py-4 px-8'>
+        <header className='flex items-center justify-between py-3 px-8 
+            z-50 fixed w-full bg-white dark:bg-gray-800 
+            border-solid border-b border-gray-200 dark:border-gray-600'
+        >
             <div className='navbar-logo'>
                 <Link href='/' aria-label='Pass Map'>
                     <div className='flex items-center justify-between'>
@@ -27,7 +30,7 @@ const Header = () => {
                     </div>
                 </Link>
             </div>
-            <div className='navbar-links flex items-center text-base leading-5'>
+            <div className='navbar-menu flex items-center text-base leading-5'>
                 <div className='hidden sm:block'>
                     { headerNavLinks.map((link) => (
                         <Link href={link.href} key={link.title}
