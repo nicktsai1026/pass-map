@@ -1,4 +1,5 @@
 import Metadata from "@/data/meta.json";
+import Image from 'next/image';
 
 interface Meta {
     "page": string,
@@ -17,8 +18,18 @@ export const metadata = {
 
 const HomePage = () => {
     return (
-        <div className='container mx-auto px-4'>
-            <h1>Welcome to the pass map</h1>
+        <div className='container mx-auto'>
+            <div className="relative min-h-4/5">
+                <div className="flex items-center justify-center min-h-4/5">
+                    <h1 className="z-10">Welcome to the pass map</h1>
+                </div>
+                <Image
+                    src="/homepage_cover.jpg"
+                    alt="Homepage cover"
+                    fill
+                    priority
+                />
+            </div>
         </div>
     )
 }
