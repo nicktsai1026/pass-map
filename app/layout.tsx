@@ -22,7 +22,7 @@ export default function RootLayout({
             <ThemeProvider attribute='class'>
                 <body className={inter.className}>
                     <Header />
-                    <main className='mx-auto max-w-3xl px-4 sm:px-6 xl:max-w-5xl xl:px-0'>{children}</main>
+                    <main className='mx-auto max-w-4xl px-4 pt-16 sm:px-6 xl:max-w-5xl xl:px-0'>{children}</main>
                     <Footer />
                 </body>
             </ThemeProvider>
