@@ -32,6 +32,9 @@ module.exports = {
       '3/5': '60vh',
       '4/5': '80vh',
       'screen': '100vh'
+    },
+    backgroundImage: {
+      'homepage-cover': "url('/homepage_cover.jpg')",
     }
   },
   darkMode: 'class',
