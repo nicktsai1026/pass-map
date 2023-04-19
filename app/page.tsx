@@ -21,18 +21,18 @@ const HomePage = () => {
     return (
         <>
             <div className="min-h-4/5 bg-homepage-cover bg-cover bg-center flex justify-center items-center">
-                <div className="p-5 text-center bg-gray-100 dark:bg-gray-700 rounded-lg bg-opacity-50 dark:bg-opacity-50">
+                <div className="p-5 m-5 text-center bg-gray-100 dark:bg-gray-700 rounded-lg bg-opacity-50 dark:bg-opacity-50">
                     <h1 className="mb-4 text-xl">{HomepageData.cover.heading}</h1>
                     <h1 className="text-2xl">{HomepageData.cover.greeting}</h1>
                 </div>
             </div>
-            <div className="container mx-auto max-w-5xl px-6 pt-16 grid grid-cols-2 gap-12">
+            <div className="container mx-auto max-w-5xl px-5 pt-16 grid grid-cols-1 gap-10 sm:grid-cols-2">
                 <div className="intro">
                     <h1 className="text-2xl font-semibold">{HomepageData.intro.title}</h1>
                     <span className="text-xs">{HomepageData.intro.description}</span>
                     <p className="text-base font-normal">{HomepageData.intro.content}</p>
                 </div>
-                <div className="relative">
+                <div className="relative min-h-2/5">
                     <Image
                         src={HomepageData.intro.image}
                         alt={HomepageData.intro.title}
