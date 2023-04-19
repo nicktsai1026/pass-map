@@ -10,8 +10,8 @@ const limelight = Limelight({ weight: '400', subsets: ['latin'] });
 
 const Header = () => {
     return (
-        <header className='flex items-center justify-between py-3 px-8 
-            z-50 fixed w-full bg-white dark:bg-gray-800 
+        <header className='flex items-center justify-between py-3 px-8 z-50 
+            fixed w-full bg-white dark:bg-gray-800 
             border-solid border-b border-gray-200 dark:border-gray-600'
         >
             <div className='navbar-logo'>
