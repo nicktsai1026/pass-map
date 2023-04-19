@@ -28,6 +28,8 @@ module.exports = {
       white: '#ffffff'
     },
     minHeight: {
+      '1/3': '30vh',
+      '2/5': '40vh',
       '1/2': '50vh',
       '3/5': '60vh',
       '4/5': '80vh',
