@@ -1,5 +1,5 @@
 "use client";
-
+import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import ThemeButton from './themeButton';
@@ -9,11 +9,22 @@ import { Limelight } from 'next/font/google';
 const limelight = Limelight({ weight: '400', subsets: ['latin'] });
 
 const Header = () => {
+    const [scrollPosition, setScrollPosition] = useState(0);
+
+    useEffect(() => {
+        const updatePosition = () => {
+            setScrollPosition(window.pageYOffset);
+        };
+        window.addEventListener("scroll", updatePosition);
+    }, []);
+
+    const headerLayout = (position: number): string => {
+        let style = 'z-10 border-solid border-b border-gray-200 dark:border-gray-600 bg-gray-100 dark:bg-gray-900';
+        return position === 0 ? '' : style;
+    }
+
     return (
-        <header className='flex items-center justify-between py-3 px-8 z-50 
-            fixed w-full bg-white dark:bg-gray-800 
-            border-solid border-b border-gray-200 dark:border-gray-600'
-        >
+        <header className={`flex items-center justify-between py-3 px-5 md:px-8 fixed w-full ${headerLayout(scrollPosition)}`}>
             <div className='navbar-logo'>
                 <Link href='/' aria-label='Pass Map'>
                     <div className='flex items-center justify-between'>
