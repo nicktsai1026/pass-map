@@ -14,7 +14,7 @@ module.exports = {
       },
     },
     colors: {
-      primary: '#46EBCE',
+      primary: '#FD8964',
       gray: {
         '100': '#f3f4f6',
         '200': '#e5e7eb',
@@ -23,7 +23,9 @@ module.exports = {
         '500': '#6b7280',
         '600': '#4b5563',
         '700': '#374151',
-        '800': '#1f2937'
+        '800': '#1f2937',
+        '900': '#111827',
+        '950': '#030712'
       },
       white: '#ffffff'
     },
@@ -33,10 +35,14 @@ module.exports = {
       '1/2': '50vh',
       '3/5': '60vh',
       '4/5': '80vh',
+      '9/10' : '90vh',
       'screen': '100vh'
     },
     backgroundImage: {
-      'homepage-cover': "url('/homepage_cover.jpg')",
+      'dark-museum-cover': "url('/images/dark_museum_cover.jpg')",
+      'light-museum-cover': "url('/images/light_museum_cover.jpg')",
+      "dark-museum-image": "url('/images/elephant.jpg')",
+      "light-museum-image": "url('/images/statue.jpg')"
     }
   },
   darkMode: 'class',
