@@ -7,6 +7,7 @@ import MobileSidebar from './mobileSidebar';
 import headerNavLinks from '@/data/headerNavLinks.json';
 import { Limelight } from 'next/font/google';
 const limelight = Limelight({ weight: '400', subsets: ['latin'] });
+const BORDER_POSITION = 50;
 
 const Header = () => {
     const [scrollPosition, setScrollPosition] = useState(0);
@@ -20,7 +21,7 @@ const Header = () => {
 
     const headerLayout = (position: number): string => {
         let style = 'z-10 border-solid border-b border-gray-200 dark:border-gray-600 bg-gray-100 dark:bg-gray-900';
-        return position === 0 ? '' : style;
+        return position < BORDER_POSITION ? '' : style;
     }
 
     return (
