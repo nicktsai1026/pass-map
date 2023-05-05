@@ -1,0 +1,267 @@
+[
+    {
+        "name": "Agincourt",
+        "image": "/libraries/agincourt.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Albert Campbell",
+        "image": "/libraries/albert_campbell.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Albion",
+        "image": "/libraries/albion.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Barbara Frum",
+        "image": "/libraries/barbara_frum.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Bendale",
+        "image": "/libraries/bendale.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Bridlewood",
+        "image": "/libraries/bridlewood.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Cedarbrae",
+        "image": "/libraries/cedarbrae.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Centennial",
+        "image": "/libraries/centennial.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Dawes Road",
+        "image": "/libraries/dawes_road.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Eatonville",
+        "image": "/libraries/eatonville.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Flemingdon Park",
+        "image": "/libraries/flemingdon_park.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Humber Summit",
+        "image": "/libraries/humber_summit.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Jane/Sheppard",
+        "image": "/libraries/jane_sheppard.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Kennedy/Eglinton",
+        "image": "/libraries/kennedy_eglinton.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Lillian H. Smith",
+        "image": "/libraries/lillian_h_smith.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Malvern",
+        "image": "/libraries/malvern.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Maria A. Shchuka",
+        "image": "/libraries/maria_a_shchuka.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "McGregor Park",
+        "image": "/libraries/mcgregor_park.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Morningside",
+        "image": "/libraries/morningside.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Mount Dennis",
+        "image": "/libraries/mount_dennis.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Parkdale",
+        "image": "/libraries/parkdale.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Parliament Street",
+        "image": "/libraries/parliament.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Richview",
+        "image": "/libraries/richview.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "S. Walter Stewart",
+        "image": "/libraries/s_walter_stewart.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "St. James Town",
+        "image": "/libraries/st_james_town.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Sanderson",
+        "image": "/libraries/sanderson.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Steeles",
+        "image": "/libraries/steeles.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Thorncliffe",
+        "image": "/libraries/thorncliffe.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Victoria Village",
+        "image": "/libraries/victoria_village.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Weston",
+        "image": "/libraries/weston.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Woodview Park",
+        "image": "/libraries/woodview_park.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "York Woods",
+        "image": "/libraries/york_woods.jpeg",
+        "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    },
+    {
+        "name": "Amesbury Park",
+        "image": "/libraries/amesbury_park.jpeg",
+        "events": [2, 5, 1]
+    },
+    {
+        "name": "Black Creek",
+        "image": "/libraries/black_creek.jpeg",
+        "events": [2, 5, 1]
+    },
+    {
+        "name": "Bloor/Gladstone",
+        "image": "/libraries/bloor_gladstone.jpeg",
+        "events": [2, 5, 1]
+    },
+    {
+        "name": "Brookbanks",
+        "image": "/libraries/brookbanks.jpeg",
+        "events": [2, 5, 1]
+    },
+    {
+        "name": "Burrows Hall",
+        "image": "/libraries/burrows_hall.jpeg",
+        "events": [2, 5, 1]
+    },
+    {
+        "name": "Downsview",
+        "image": "/libraries/downsview.jpeg",
+        "events": [2, 5, 1]
+    },
+    {
+        "name": "Evelyn Gregory",
+        "image": "/libraries/evelyn_gregory.jpeg",
+        "events": [2, 5, 1]
+    },
+    {
+        "name": "Fairview",
+        "image": "/libraries/fairview.jpeg",
+        "events": [2, 5, 1]
+    },
+    {
+        "name": "Hillcrest",
+        "image": "/libraries/hillcrest.jpeg",
+        "events": [2, 5, 1]
+    },
+    {
+        "name": "Jane/Dundas",
+        "image": "/libraries/jane_dundas.jpeg",
+        "events": [2, 5]
+    },
+    {
+        "name": "New Toronto",
+        "image": "/libraries/new_toronto.jpeg",
+        "events": [2, 5, 1]
+    },
+    {
+        "name": "Northern District",
+        "image": "/libraries/northern_district.jpeg",
+        "events": [2, 5, 1]
+    },
+    {
+        "name": "Northern Elms",
+        "image": "/libraries/northern_elms.jpeg",
+        "events": [2, 5]
+    },
+    {
+        "name": "Pape/Danforth",
+        "image": "/libraries/pape_danforth.jpeg",
+        "events": [2, 5, 1]
+    },
+    {
+        "name": "Spadina Road",
+        "image": "/libraries/spadina_road.jpeg",
+        "events": [2, 5, 1]
+    },
+    {
+        "name": "St. Clair/Silverthorn",
+        "image": "/libraries/st_clair_silverthorn.jpeg",
+        "events": [2, 5]
+    },
+    {
+        "name": "St. Lawrence",
+        "image": "/libraries/st_lawrence.jpeg",
+        "events": [2, 5, 1]
+    },
+    {
+        "name": "Woodside Square",
+        "image": "/libraries/woodside_square.jpeg",
+        "events": [2, 5, 1]
+    },
+    {
+        "name": "Don Mills",
+        "image": "/libraries/don_mills.jpeg",
+        "events": [1]
+    },
+    {
+        "name": "Eglinton Square",
+        "image": "/libraries/eglinton_square.jpeg",
+        "events": [1]
+    },
+    {
+        "name": "Leaside",
+        "image": "/libraries/leaside.jpeg",
+        "events": [1]
+    }
+]
