@@ -1,20 +1,20 @@
 [
-    {
-        "page": "home",
-        "title": "Pass Map",
-        "keywords": "Library, Ontario, Maps, Passes, Parks",
-        "description": "Pass Map is user-friendly and provides easy access to a wealth of resources and information, making it simple for visitors to learn about and take advantage of these services. The website also provides detailed information about each of the programs, including eligibility requirements, pass options, and participating institutions. Visitors can easily search for museums, galleries, and other cultural attractions that accept the OLMAP pass, or explore the different provincial parks and recreational opportunities available with the Ontario Parks Pass."
-    },
-    {
-        "page": "museum-arts-passes",
-        "title": "Museum Arts Passes Map",
-        "keywords": "Library, Ontario, Museum, Arts, Aquarium, Zoo, Passes",
-        "description": "The Ontario Library Museum Arts Pass is a program that provides library users with the opportunity to borrow free passes to art galleries, museums, historic sites, and other cultural institutions across Ontario. The program is available to anyone with a valid library card from a participating Ontario public library. It is a fantastic opportunity for library users to explore the cultural heritage and artistic expression of their local communities, and a great way to enrich their lives through new and exciting experiences."
-    },
-    {
-        "page": "ontario-parks-passes",
-        "title": "Ontario Parks Passes Map",
-        "keywords": "Library, Ontario, National Park, Provincial Park, Parks, Passes",
-        "description": "The Ontario Parks Pass program is a service that provides library users with the opportunity to borrow free passes to Ontario's provincial parks. With an Ontario Parks Pass, passholders can access and enjoy Ontario's provincial parks, which offer a variety of outdoor activities such as hiking, swimming, fishing, boating, camping, and wildlife viewing. The program is managed by the Ontario Ministry of the Environment, Conservation, and Parks, it is designed to encourage people to explore the natural beauty and outdoor recreation opportunities available throughout the province."
-    }
+  {
+    "page": "home",
+    "title": "Pass Map",
+    "keywords": "Library, Ontario, Maps, Passes, Parks",
+    "description": "Pass Map is user-friendly and provides easy access to a wealth of resources and information, making it simple for visitors to learn about and take advantage of these services. The website also provides detailed information about each of the programs, including eligibility requirements, pass options, and participating institutions. Visitors can easily search for museums, galleries, and other cultural attractions that accept the OLMAP pass, or explore the different provincial parks and recreational opportunities available with the Ontario Parks Pass."
+  },
+  {
+    "page": "museum-arts-passes",
+    "title": "Museum Arts Passes Map",
+    "keywords": "Library, Ontario, Museum, Arts, Aquarium, Zoo, Passes",
+    "description": "The Ontario Library Museum Arts Pass is a program that provides library users with the opportunity to borrow free passes to art galleries, museums, historic sites, and other cultural institutions across Ontario. The program is available to anyone with a valid library card from a participating Ontario public library. It is a fantastic opportunity for library users to explore the cultural heritage and artistic expression of their local communities, and a great way to enrich their lives through new and exciting experiences."
+  },
+  {
+    "page": "ontario-parks-passes",
+    "title": "Ontario Parks Passes Map",
+    "keywords": "Library, Ontario, National Park, Provincial Park, Parks, Passes",
+    "description": "The Ontario Parks Pass program is a service that provides library users with the opportunity to borrow free passes to Ontario's provincial parks. With an Ontario Parks Pass, passholders can access and enjoy Ontario's provincial parks, which offer a variety of outdoor activities such as hiking, swimming, fishing, boating, camping, and wildlife viewing. The program is managed by the Ontario Ministry of the Environment, Conservation, and Parks, it is designed to encourage people to explore the natural beauty and outdoor recreation opportunities available throughout the province."
+  }
 ]

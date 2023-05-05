@@ -4,15 +4,15 @@ import { Poppins } from 'next/font/google';
 const inter = Poppins({ weight: ['400', '700'], subsets: ['latin'] });
 
 export default function RootLayout({
-    children,
+  children,
 }: {
-    children: React.ReactNode
+  children: React.ReactNode
 }) {
-    return (
-        <html lang="en">
-            <body className={inter.className}>
-                <Provider>{children}</Provider>
-            </body>
-        </html>
-    )
+  return (
+    <html lang="en">
+      <body className={inter.className}>
+        <Provider>{children}</Provider>
+      </body>
+    </html>
+  )
 }

@@ -1,24 +1,24 @@
 {
-    "greeting": {
-        "text": "Exploring Cultural Attractions",
-        "image": {
-            "dark": "/assets/elephant.jpg",
-            "light": "/assets/statue.jpg"
-        },
-        "button": {
-            "href": "/museum-arts-passes",
-            "text": "Read More"
-        }
+  "greeting": {
+    "text": "Exploring Cultural Attractions",
+    "image": {
+      "dark": "/assets/elephant.jpg",
+      "light": "/assets/statue.jpg"
     },
-    "intro": {
-        "title": "Museums & Cultural Venues",
-        "description": "Acquire a free admission pass from a nearby library.",
-        "image": "/assets/elephant_1.jpg",
-        "content": "Do you have a Toronto Public Library card? If so, you may be surprised to learn that it offers more than just access to books. Your Toronto library card provides complimentary admission to some of the city's most popular museums and cultural attractions."
-    },
-    "notes": [
-        "Limit of one MAP Pass per person per week",
-        "Most places admit 2 adults and 2 children",
-        "Pass expires three months after checkout"
-    ]
+    "button": {
+      "href": "/museum-arts-passes",
+      "text": "Read More"
+    }
+  },
+  "intro": {
+    "title": "Museums & Cultural Venues",
+    "description": "Acquire a free admission pass from a nearby library.",
+    "image": "/assets/elephant_1.jpg",
+    "content": "Do you have a Toronto Public Library card? If so, you may be surprised to learn that it offers more than just access to books. Your Toronto library card provides complimentary admission to some of the city's most popular museums and cultural attractions."
+  },
+  "notes": [
+    "Limit of one MAP Pass per person per week",
+    "Most places admit 2 adults and 2 children",
+    "Pass expires three months after checkout"
+  ]
 }

@@ -5,15 +5,15 @@ import Footer from '@/components/footer';
 import { ThemeProvider } from "next-themes";
 
 const Provider = ({
-    children,
+  children,
 }: {
-    children: React.ReactNode
+  children: React.ReactNode
 }) => {
   return (
     <ThemeProvider attribute='class'>
-        <Header />
-        <main>{children}</main>
-        <Footer />
+      <Header />
+      <main>{children}</main>
+      <Footer />
     </ThemeProvider>
   )
 }
