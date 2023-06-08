@@ -10,10 +10,14 @@
       "text": "Read More"
     }
   },
-  "intro": {
+  "attractions": {
     "title": "Museums & Cultural Venues",
     "description": "Acquire a free admission pass from a nearby library.",
     "image": "/assets/elephant_1.jpg",
+    "button": {
+      "href": "/museum-arts-passes",
+      "text": "Get Free Pass"
+    },
     "content": "Do you have a Toronto Public Library card? If so, you may be surprised to learn that it offers more than just access to books. Your Toronto library card provides complimentary admission to some of the city's most popular museums and cultural attractions."
   },
   "notes": [

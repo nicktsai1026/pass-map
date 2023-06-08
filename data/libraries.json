@@ -4,370 +4,1009 @@
     "slug": "agincourt",
     "image": "/libraries/agincourt.jpeg",
     "address": "155 Bonis Avenue, Toronto, ON  M1T 3W6",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.785298,
+      -79.293423
+    ]
   },
   {
     "name": "Albert Campbell",
     "slug": "albertcampbell",
     "image": "/libraries/albert_campbell.jpeg",
     "address": "496 Birchmount Road, Toronto, ON  M1K 1N8",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.708048,
+      -79.269238
+    ]
   },
   {
     "name": "Albion",
     "slug": "albion",
     "image": "/libraries/albion.jpeg",
     "address": "1515 Albion Road, Toronto, ON  M9V 1B2",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.739942,
+      -79.584861
+    ]
   },
   {
     "name": "Barbara Frum",
     "slug": "barbarafrum",
     "image": "/libraries/barbara_frum.jpeg",
     "address": "20 Covington Road, Toronto, ON  M6A 3C1",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.720703,
+      -79.432152
+    ]
   },
   {
     "name": "Bendale",
     "slug": "bendale",
     "image": "/libraries/bendale.jpeg",
     "address": "1515 Danforth Road, Toronto, ON  M1J 1H5",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.751182,
+      -79.244226
+    ]
   },
   {
     "name": "Bridlewood",
     "slug": "bridlewood",
     "image": "/libraries/bridlewood.jpeg",
     "address": "2900 Warden Avenue, Toronto, ON  M1W 2S8",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.799524,
+      -79.319386
+    ]
   },
   {
     "name": "Cedarbrae",
     "slug": "cedarbrae",
     "image": "/libraries/cedarbrae.jpeg",
     "address": "545 Markham Rd, Scarborough, ON M1H 2A1",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.757672,
+      -79.224234
+    ]
   },
   {
     "name": "Centennial",
     "slug": "centennial",
     "image": "/libraries/centennial.jpeg",
     "address": "578 Finch Ave W, North York, ON M2R 1N7",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.772981,
+      -79.449588
+    ]
   },
   {
     "name": "Dawes Road",
     "slug": "dawesroad",
     "image": "/libraries/dawes_road.jpeg",
     "address": "416 Dawes Road, Toronto, ON  M4B 2E8",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.701268,
+      -79.297106
+    ]
   },
   {
     "name": "Eatonville",
     "slug": "eatonville",
     "image": "/libraries/eatonville.jpeg",
     "address": "430 Burnhamthorpe Road, Toronto, ON  M9B 2B1",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.646161,
+      -79.558991
+    ]
   },
   {
     "name": "Flemingdon Park",
     "slug": "flemingdonpark",
     "image": "/libraries/flemingdon_park.jpeg",
     "address": "29 St. Dennis Drive, Toronto, ON  M3C 3J3",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.71812,
+      -79.332
+    ]
   },
   {
     "name": "Humber Summit",
     "slug": "humbersummit",
     "image": "/libraries/humber_summit.jpeg",
     "address": "2990 Islington Avenue, Toronto, ON  M9L 2K6",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.759248,
+      -79.571465
+    ]
   },
   {
     "name": "Jane/Sheppard",
     "slug": "janesheppard",
     "image": "/libraries/jane_sheppard.jpeg",
     "address": "1906 Sheppard Avenue West, Toronto, ON  M3L 1Y7",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.739996,
+      -79.510081
+    ]
   },
   {
     "name": "Kennedy/Eglinton",
     "slug": "kennedyeglinton",
     "image": "/libraries/kennedy_eglinton.jpeg",
     "address": "2380 Eglinton Avenue East, Toronto, ON  M1K 2P3",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.732269,
+      -79.270427
+    ]
   },
   {
     "name": "Lillian H. Smith",
     "slug": "lillianhsmith",
     "image": "/libraries/lillian_h_smith.jpeg",
     "address": "239 College Street, Toronto, ON  M5T 1R5",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.658083,
+      -79.398419
+    ]
   },
   {
     "name": "Malvern",
     "slug": "malvern",
     "image": "/libraries/malvern.jpeg",
     "address": "30 Sewells Road, Toronto, ON  M1B 3G5",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.808299,
+      -79.215648
+    ]
   },
   {
     "name": "Maria A. Shchuka",
     "slug": "mariaashchuka",
     "image": "/libraries/maria_a_shchuka.jpeg",
     "address": "1745 Eglinton Ave W, York, ON M6E 2H4",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.69624,
+      -79.447245
+    ]
   },
   {
     "name": "McGregor Park",
     "slug": "mcgregorpark",
     "image": "/libraries/mcgregor_park.jpeg",
     "address": "2219 Lawrence Avenue East, Toronto, ON  M1P 2P5",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.748057,
+      -79.281322
+    ]
   },
   {
     "name": "Morningside",
     "slug": "morningside",
     "image": "/libraries/morningside.jpeg",
     "address": "4279 Lawrence Avenue East, Toronto, ON  M1E 2S8",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.769926,
+      -79.178392
+    ]
   },
   {
     "name": "Mount Dennis",
     "slug": "mountdennis",
     "image": "/libraries/mount_dennis.jpeg",
     "address": "1123 Weston Road, Toronto, ON  M6N 3S3",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.686623,
+      -79.48825
+    ]
   },
   {
     "name": "Parkdale",
     "slug": "parkdale",
     "image": "/libraries/parkdale.jpeg",
     "address": "1303 Queen Street West, Toronto, ON  M6K 1L6",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.6412,
+      -79.432656
+    ]
   },
   {
     "name": "Parliament Street",
     "slug": "parliament",
     "image": "/libraries/parliament.jpeg",
     "address": "269 Gerrard Street East, Toronto, ON  M5A 2G3",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.661964,
+      -79.368208
+    ]
   },
   {
     "name": "Richview",
     "slug": "richview",
     "image": "/libraries/richview.jpeg",
     "address": "1806 Islington Ave, Toronto, ON M9P 3N3",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.68345,
+      -79.541186
+    ]
   },
   {
     "name": "S. Walter Stewart",
     "slug": "swalterstewart",
     "image": "/libraries/s_walter_stewart.jpeg",
     "address": "170 Memorial Park Avenue, Toronto, ON  M4J 2K5",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.692114,
+      -79.329452
+    ]
   },
   {
     "name": "St. James Town",
     "slug": "stjamestown",
     "image": "/libraries/st_james_town.jpeg",
     "address": "495 Sherbourne Street, Toronto, ON  M4X 1K7",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.667815,
+      -79.374584
+    ]
   },
   {
     "name": "Sanderson",
     "slug": "sanderson",
     "image": "/libraries/sanderson.jpeg",
     "address": "327 Bathurst Street, Toronto, ON  M5T 1J1",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.652101,
+      -79.405463
+    ]
   },
   {
     "name": "Steeles",
     "slug": "steeles",
     "image": "/libraries/steeles.jpeg",
     "address": "375 Bamburgh Circle, Toronto, ON  M1W 3Y1",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.815892,
+      -79.322921
+    ]
   },
   {
     "name": "Thorncliffe",
     "slug": "thorncliffe",
     "image": "/libraries/thorncliffe.jpeg",
     "address": "48 Thorncliffe Park Drive, Toronto, ON  M4H 1J7",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.703254,
+      -79.343045
+    ]
   },
   {
     "name": "Victoria Village",
     "slug": "victoriavillage",
     "image": "/libraries/victoria_village.jpeg",
     "address": "184 Sloane Avenue, Toronto, ON  M4A 2C4",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.735985,
+      -79.312914
+    ]
   },
   {
     "name": "Weston",
     "slug": "weston",
     "image": "/libraries/weston.jpeg",
     "address": "2 King Street, Toronto, ON  M9N 1K9",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.701562,
+      -79.520721
+    ]
   },
   {
     "name": "Woodview Park",
     "slug": "woodview",
     "image": "/libraries/woodview_park.jpeg",
     "address": "16 Bradstock Road, Toronto, ON  M9M 1M8",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.739708,
+      -79.538343
+    ]
   },
   {
     "name": "York Woods",
     "slug": "yorkwoods",
     "image": "/libraries/york_woods.jpeg",
     "address": "1785 Finch Avenue West, Toronto, ON  M3N 1M6",
-    "events": [3, 4, 7, 9, 10, 11, 12, 2, 5, 1]
+    "events": [
+      3,
+      4,
+      7,
+      9,
+      10,
+      11,
+      12,
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.758968,
+      -79.507328
+    ]
   },
   {
     "name": "Amesbury Park",
     "slug": "amesburypark",
     "image": "/libraries/amesbury_park.jpeg",
     "address": "1565 Lawrence Avenue West, Toronto, ON  M6L 1A8",
-    "events": [2, 5, 1]
+    "events": [
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.70644,
+      -79.485754
+    ]
   },
   {
     "name": "Black Creek",
     "slug": "blackcreek",
     "image": "/libraries/black_creek.jpeg",
     "address": "1700 Wilson Avenue, Toronto, ON  M3L 1B2",
-    "events": [2, 5, 1]
+    "events": [
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.72139,
+      -79.511955
+    ]
   },
   {
     "name": "Bloor/Gladstone",
     "slug": "bloorgladstone",
     "image": "/libraries/bloor_gladstone.jpeg",
     "address": "1101 Bloor Street West, Toronto, ON  M6H 1M7",
-    "events": [2, 5, 1]
+    "events": [
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.660036,
+      -79.434062
+    ]
   },
   {
     "name": "Brookbanks",
     "slug": "brookbanks",
     "image": "/libraries/brookbanks.jpeg",
     "address": "210 Brookbanks Drive, Toronto, ON  M3A 2T8",
-    "events": [2, 5, 1]
+    "events": [
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.759549,
+      -79.325843
+    ]
   },
   {
     "name": "Burrows Hall",
     "slug": "burrowshall",
     "image": "/libraries/burrows_hall.jpeg",
     "address": "1081 Progress Avenue, Toronto, ON  M1B 5Z6",
-    "events": [2, 5, 1]
+    "events": [
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.794133,
+      -79.234351
+    ]
   },
   {
     "name": "Downsview",
     "slug": "downsview",
     "image": "/libraries/downsview.jpeg",
     "address": "2793 Keele Street, Toronto, ON  M3M 2G3",
-    "events": [2, 5, 1]
+    "events": [
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.728537,
+      -79.482326
+    ]
   },
   {
     "name": "Evelyn Gregory",
     "slug": "evelyngregory",
     "image": "/libraries/evelyn_gregory.jpeg",
     "address": "120 Trowell Avenue, Toronto, ON  M6M 1L7",
-    "events": [2, 5, 1]
+    "events": [
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.686242,
+      -79.472321
+    ]
   },
   {
     "name": "Fairview",
     "slug": "fairview",
     "image": "/libraries/fairview.jpeg",
     "address": "35 Fairview Mall Drive, Toronto, ON  M2J 4S4",
-    "events": [2, 5, 1]
+    "events": [
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.77952,
+      -79.345891
+    ]
   },
   {
     "name": "Hillcrest",
     "slug": "hillcrest",
     "image": "/libraries/hillcrest.jpeg",
     "address": "5801 Leslie Street, Toronto, ON  M2H 1J8",
-    "events": [2, 5, 1]
+    "events": [
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.797097,
+      -79.369026
+    ]
   },
   {
     "name": "Jane/Dundas",
     "slug": "janedundas",
     "image": "/libraries/jane_dundas.jpeg",
     "address": "620 Jane Street, Toronto, ON  M6S 4A6",
-    "events": [2, 5]
+    "events": [
+      2,
+      5
+    ],
+    "geo": [
+      43.66516,
+      -79.491262
+    ]
   },
   {
     "name": "New Toronto",
     "slug": "newtoronto",
     "image": "/libraries/new_toronto.jpeg",
     "address": "110 Eleventh Street, Toronto, ON  M8V 3G5",
-    "events": [2, 5, 1]
+    "events": [
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.599049,
+      -79.509604
+    ]
   },
   {
     "name": "Northern District",
     "slug": "northerndistrict",
     "image": "/libraries/northern_district.jpeg",
     "address": "40 Orchard View Boulevard, Toronto, ON  M4R 1B9",
-    "events": [2, 5, 1]
+    "events": [
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.70838,
+      -79.400068
+    ]
   },
   {
     "name": "Northern Elms",
     "slug": "northernelms",
     "image": "/libraries/northern_elms.jpeg",
     "address": "123B Rexdale Boulevard, Toronto, ON  M9W 1P1",
-    "events": [2, 5]
+    "events": [
+      2,
+      5
+    ],
+    "geo": [
+      43.710814,
+      -79.56539
+    ]
   },
   {
     "name": "Pape/Danforth",
     "slug": "papedanforth",
     "image": "/libraries/pape_danforth.jpeg",
     "address": "701 Pape Avenue, Toronto, ON  M4K 3S6",
-    "events": [2, 5, 1]
+    "events": [
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.678583,
+      -79.344551
+    ]
   },
   {
     "name": "Spadina Road",
     "slug": "spadina",
     "image": "/libraries/spadina_road.jpeg",
     "address": "10 Spadina Road, Toronto, ON  M5R 2S7",
-    "events": [2, 5, 1]
+    "events": [
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.667681,
+      -79.404641
+    ]
   },
   {
     "name": "St. Clair/Silverthorn",
     "slug": "stclairsilverthorn",
     "image": "/libraries/st_clair_silverthorn.jpeg",
     "address": "1748 St. Clair Avenue West, Toronto, ON  M6N 1J3",
-    "events": [2, 5]
+    "events": [
+      2,
+      5
+    ],
+    "geo": [
+      43.674234,
+      -79.460578
+    ]
   },
   {
     "name": "St. Lawrence",
     "slug": "stlawrence",
     "image": "/libraries/st_lawrence.jpeg",
     "address": "171 Front Street East, Toronto, ON  M5A 4H3",
-    "events": [2, 5, 1]
+    "events": [
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.649964,
+      -79.368453
+    ]
   },
   {
     "name": "Woodside Square",
     "slug": "woodside",
     "image": "/libraries/woodside_square.jpeg",
     "address": "1571 Sandhurst Circle, Toronto, ON  M1V 1V2",
-    "events": [2, 5, 1]
+    "events": [
+      2,
+      5,
+      1
+    ],
+    "geo": [
+      43.808344,
+      -79.267454
+    ]
   },
   {
     "name": "Don Mills",
     "slug": "donmills",
     "image": "/libraries/don_mills.jpeg",
     "address": "888 Lawrence Avenue East, Toronto, ON  M3C 1P6",
-    "events": [1]
+    "events": [
+      1
+    ],
+    "geo": [
+      43.736578,
+      -79.346817
+    ]
   },
   {
     "name": "Eglinton Square",
     "slug": "eglintonsquare",
     "image": "/libraries/eglinton_square.jpeg",
     "address": "1 Eglinton Square #126, Scarborough, ON M1L 2K1",
-    "events": [1]
+    "events": [
+      1
+    ],
+    "geo": [
+      43.72351,
+      -79.300137
+    ]
   },
   {
     "name": "Leaside",
     "slug": "leaside",
     "image": "/libraries/leaside.jpeg",
     "address": "165 McRae Drive, Toronto, ON  M4G 1S8",
-    "events": [1]
+    "events": [
+      1
+    ],
+    "geo": [
+      43.706442,
+      -79.367783
+    ]
   }
 ]

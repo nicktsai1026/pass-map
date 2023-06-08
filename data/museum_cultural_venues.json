@@ -1,97 +1,121 @@
 [
   {
     "id": "1",
+    "slug": "aga-khan-museum",
     "name": "Aga Khan Museum",
     "image": "/museums_cultural_venues/aga-khan-museum.jpeg",
     "address": "77 Wynford Dr.",
+    "description": "The Aga Khan Museum provides visitors with a window into the artistic, intellectual, and scientific contributions of Muslim civilizations to world heritage.",
     "map": "https://goo.gl/maps/ZDEsnpAVHtF2",
     "website": "https://www.agakhanmuseum.org/index.html"
   },
   {
     "id": "2",
+    "slug": "bata-shoe-museum",
     "name": "Bata Shoe Museum",
     "image": "/museums_cultural_venues/bata-shoe-museum.jpeg",
     "address": "327 Bloor St W",
+    "description": "As North America's largest shoe museum, the Bata Shoe Museum features an international collection of 15,000 artefacts, spanning 4,500 years of fascinating footwear history.",
     "map": "https://goo.gl/maps/5soF7HL3cjT2",
     "website": "https://batashoemuseum.ca/"
   },
   {
     "id": "3",
+    "slug": "gardiner-ceramics-museum",
     "name": "Gardiner Museum",
     "image": "/museums_cultural_venues/gardiner-ceramics-museum.jpg",
     "address": "111 Queens Park",
+    "description": "Discover fascinating ceramic objects from around the world, including pottery from the Ancient Americas, Chinese and Japanese porcelain, and contemporary Canadian ceramics.",
     "map": "https://goo.gl/maps/PDBzQdD5YkG2",
     "website": "https://www.gardinermuseum.on.ca/"
   },
   {
     "id": "4",
+    "slug": "museum-of-contemporary-art",
     "name": "Museum of Contemporary Art",
     "image": "/museums_cultural_venues/museum-of-contemporary-art.jpg",
     "address": "158 Sterling Rd",
+    "description": "MOCA Toronto features work by world-renowned Canadian and international artists exploring the themes of our time.",
     "map": "https://goo.gl/maps/sxWDxRvFbp52",
     "website": "https://museumofcontemporaryart.ca/"
   },
   {
     "id": "5",
+    "slug": "royal-ontario-museum",
     "name": "ROM - Royal Ontario Museum",
     "image": "/museums_cultural_venues/rom.jpg",
     "address": "100 Queens Park",
+    "description": "Experience Canada's largest museum. From dinosaurs to mummies, Chinese architecture to Indigenous objects, and meteorites to precious jewels.",
     "map": "https://goo.gl/maps/534SimmKPDR2",
     "website": "https://www.rom.on.ca/en"
   },
   {
     "id": "6",
+    "slug": "textile-museum-of-canada",
     "name": "Textile Museum of Canada",
     "image": "/museums_cultural_venues/textile-museum-hero.jpg",
     "address": "55 Centre Ave",
+    "description": "The Textile Museum of Canada aims to inspire understanding of the human experience through textiles.",
     "map": "https://goo.gl/maps/WpJYMPEoi6N2",
     "website": "http://www.textilemuseum.ca/home"
   },
   {
     "id": "7",
+    "slug": "toronto-railway-museum",
     "name": "Toronto Railway Museum",
     "image": "/museums_cultural_venues/toronto-railway-museum.jpeg",
     "address": "255 Bremner Blvd",
+    "description": "The Toronto Railway Museum presents exhibits, tours, educational programs and presentations that bring Toronto's railway heritage to life.",
     "map": "https://goo.gl/maps/Dwj9BYCqNuQZf4KFA",
     "website": "https://torontorailwaymuseum.com/"
   },
   {
     "id": "8",
+    "slug": "art-gallery-of-ontario",
     "name": "AGO - Art Gallery of Ontario",
     "image": "/museums_cultural_venues/ago.jpeg",
     "address": "317 Dundas St W.",
+    "description": "With a collection of close to 95,000 works of art, the Art Gallery of Ontario (AGO) is among the most distinguished art museums in North America.",
     "map": "https://goo.gl/maps/3figaihyy652",
     "website": "https://ago.ca/"
   },
   {
     "id": "9",
+    "slug": "black-creek-pioneer-village",
     "name": "Black Creek Pioneer Village",
     "image": "/museums_cultural_venues/black-creek-pioneer-village.jpg",
     "address": "1000 Murray Ross Pkwy",
+    "description": "Explore the past to better understand present-day. Visit 40 heritage buildings, meet friendly farm animals, enjoy beautiful gardens, and learn with costumed historians about the many peoples who created the region we know today.",
     "map": "https://goo.gl/maps/pyFdcFvt5Y32",
     "website": "https://blackcreek.ca/"
   },
   {
     "id": "10",
+    "slug": "ontario-science-centre",
     "name": "Ontario Science Centre",
     "image": "/museums_cultural_venues/ontario-science-centre.jpeg",
     "address": "770 Don Mills Rd",
+    "description": "Home to fascinating interactive experiences about science and technology.",
     "map": "https://goo.gl/maps/XNKLJjzNjwS2",
     "website": "https://www.ontariosciencecentre.ca/"
   },
   {
     "id": "11",
+    "slug": "ripleys-aquarium-of-canada",
     "name": "Ripley's Aquarium of Canada",
     "image": "/museums_cultural_venues/ripleys-hero.jpg",
     "address": "288 Bremner Blvd",
+    "description": "Ripley's Aquarium of Canada showcases the beauty and significance of our aquatic world and the animals within it, starting with species from Toronto's backyard, the Great Lakes basin.",
     "map": "https://goo.gl/maps/igAnamVRg4hjW9E96",
     "website": "https://www.ripleyaquariums.com/canada/"
   },
   {
     "id": "12",
+    "slug": "toronto-zoo",
     "name": "Toronto Zoo",
     "image": "/museums_cultural_venues/toronto-zoo.jpeg",
     "address": "2000 Meadowvale Rd",
+    "description": "Canada's premier zoo is open 365 days a year! With over 700 acres to explore and more than 3,000 animals, the Toronto Zoo is one of the largest zoos in the world.",
     "map": "https://goo.gl/maps/E59EDwh7siw",
     "website": "http://www.torontozoo.com/"
   }
