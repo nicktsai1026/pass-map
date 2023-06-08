@@ -3,6 +3,7 @@
 import { useRouter } from "next/navigation";
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import Button from '@mui/material/Button';
+import SatelliteOutlinedIcon from '@mui/icons-material/SatelliteOutlined';
 
 const theme = createTheme({
   palette: {
@@ -24,9 +25,9 @@ export const PrimaryButton = ({
       <Button variant="outlined" color="primary"
         sx={{
           textTransform: 'none',
-          letterSpacing: '2px',
+          letterSpacing: '1.5px',
           fontWeight: 'bold',
-          padding: '5px 25px'
+          padding: '5px 20px'
         }}
         onClick={() => router.push(link)}
       >
@@ -34,4 +35,8 @@ export const PrimaryButton = ({
       </Button>
     </ThemeProvider>
   );
+};
+
+export const LocationIcon = () => {
+  return <SatelliteOutlinedIcon className="mr-2"/>;
 };
