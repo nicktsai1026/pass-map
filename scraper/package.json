@@ -1,0 +1,16 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "query and store GEO information",
+  "main": "getLocationGeo.js",
+  "scripts": {
+    "libraries": "node getLocationGeo.js ../data/libraries.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.1.4"
+  }
+}
