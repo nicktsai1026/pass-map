@@ -10,9 +10,11 @@ const limelight = Limelight({ weight: '400', subsets: ['latin'] });
 const BORDER_POSITION = 50;
 
 const Header = () => {
-  const [scrollPosition, setScrollPosition] = useState(0);
+  const DEFAULT_POSITION = typeof window !== 'undefined' ? window.pageYOffset : 0;
+  const [scrollPosition, setScrollPosition] = useState(DEFAULT_POSITION);
 
   useEffect(() => {
+    setScrollPosition(window.pageYOffset);
     const updatePosition = () => {
       setScrollPosition(window.pageYOffset);
     };
@@ -20,12 +22,12 @@ const Header = () => {
   }, []);
 
   const headerLayout = (position: number): string => {
-    let style = 'z-10 border-solid border-b border-gray-200 dark:border-gray-600 bg-gray-100 dark:bg-gray-900';
+    let style = 'border-solid border-b border-gray-200 dark:border-gray-600 bg-gray-100 dark:bg-gray-900';
     return position < BORDER_POSITION ? '' : style;
   }
 
   return (
-    <header className={`flex items-center justify-between py-3 px-5 md:px-8 fixed w-full ${headerLayout(scrollPosition)}`}>
+    <header className={`flex items-center justify-between py-3 px-5 md:px-8 fixed w-full z-10 ${headerLayout(scrollPosition)}`}>
       <div className='navbar-logo'>
         <Link href='/' aria-label='Pass Map'>
           <div className='flex items-center justify-between'>
