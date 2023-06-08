@@ -16,6 +16,7 @@ module.exports = {
     colors: {
       primary: '#FD8964',
       gray: {
+        '50': '#f9fafb',
         '100': '#f3f4f6',
         '200': '#e5e7eb',
         '300': '#d1d5db',
@@ -37,6 +38,14 @@ module.exports = {
       '4/5': '80vh',
       '9/10' : '90vh',
       'screen': '100vh'
+    },
+    minWidth: {
+      '1/3': '30%',
+      '2/5': '40%',
+      '1/2': '50%',
+      '3/5': '60%',
+      '4/5': '80%',
+      'full': '100%'
     },
     backgroundImage: {
       'dark-museum-cover': "url('/assets/dark_museum_cover.jpg')",
