@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "slug": "aga-khan-museum",
     "name": "Aga Khan Museum",
     "image": "/museums_cultural_venues/aga-khan-museum.jpeg",
@@ -10,7 +10,7 @@
     "website": "https://www.agakhanmuseum.org/index.html"
   },
   {
-    "id": "2",
+    "id": 2,
     "slug": "bata-shoe-museum",
     "name": "Bata Shoe Museum",
     "image": "/museums_cultural_venues/bata-shoe-museum.jpeg",
@@ -20,7 +20,7 @@
     "website": "https://batashoemuseum.ca/"
   },
   {
-    "id": "3",
+    "id": 3,
     "slug": "gardiner-ceramics-museum",
     "name": "Gardiner Museum",
     "image": "/museums_cultural_venues/gardiner-ceramics-museum.jpg",
@@ -30,7 +30,7 @@
     "website": "https://www.gardinermuseum.on.ca/"
   },
   {
-    "id": "4",
+    "id": 4,
     "slug": "museum-of-contemporary-art",
     "name": "Museum of Contemporary Art",
     "image": "/museums_cultural_venues/museum-of-contemporary-art.jpg",
@@ -40,7 +40,7 @@
     "website": "https://museumofcontemporaryart.ca/"
   },
   {
-    "id": "5",
+    "id": 5,
     "slug": "royal-ontario-museum",
     "name": "ROM - Royal Ontario Museum",
     "image": "/museums_cultural_venues/rom.jpg",
@@ -50,7 +50,7 @@
     "website": "https://www.rom.on.ca/en"
   },
   {
-    "id": "6",
+    "id": 6,
     "slug": "textile-museum-of-canada",
     "name": "Textile Museum of Canada",
     "image": "/museums_cultural_venues/textile-museum-hero.jpg",
@@ -60,7 +60,7 @@
     "website": "http://www.textilemuseum.ca/home"
   },
   {
-    "id": "7",
+    "id": 7,
     "slug": "toronto-railway-museum",
     "name": "Toronto Railway Museum",
     "image": "/museums_cultural_venues/toronto-railway-museum.jpeg",
@@ -70,7 +70,7 @@
     "website": "https://torontorailwaymuseum.com/"
   },
   {
-    "id": "8",
+    "id": 8,
     "slug": "art-gallery-of-ontario",
     "name": "AGO - Art Gallery of Ontario",
     "image": "/museums_cultural_venues/ago.jpeg",
@@ -80,7 +80,7 @@
     "website": "https://ago.ca/"
   },
   {
-    "id": "9",
+    "id": 9,
     "slug": "black-creek-pioneer-village",
     "name": "Black Creek Pioneer Village",
     "image": "/museums_cultural_venues/black-creek-pioneer-village.jpg",
@@ -90,7 +90,7 @@
     "website": "https://blackcreek.ca/"
   },
   {
-    "id": "10",
+    "id": 10,
     "slug": "ontario-science-centre",
     "name": "Ontario Science Centre",
     "image": "/museums_cultural_venues/ontario-science-centre.jpeg",
@@ -100,7 +100,7 @@
     "website": "https://www.ontariosciencecentre.ca/"
   },
   {
-    "id": "11",
+    "id": 11,
     "slug": "ripleys-aquarium-of-canada",
     "name": "Ripley's Aquarium of Canada",
     "image": "/museums_cultural_venues/ripleys-hero.jpg",
@@ -110,7 +110,7 @@
     "website": "https://www.ripleyaquariums.com/canada/"
   },
   {
-    "id": "12",
+    "id": 12,
     "slug": "toronto-zoo",
     "name": "Toronto Zoo",
     "image": "/museums_cultural_venues/toronto-zoo.jpeg",
