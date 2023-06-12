@@ -1,17 +1,11 @@
 import Meta from "@/data/meta.json";
-import HomepageData from '@/data/homepage.json';
+import Utils from '@/data/utils.json';
 import MuseumCulturalVenues from '@/data/museum_cultural_venues.json';
-import { PrimaryButton  } from "@/components/MUI";
+import { PrimaryButton, LocationIcon  } from "@/components/MUI";
 import Image from "next/image";
+import type { Metadata } from "next";
 
-interface MetaInterface {
-  "page": string,
-  "title": string,
-  "keywords": string,
-  "description": string,
-}
-
-const siteMeta: MetaInterface = Meta.find(meta => meta.page == 'home') || Meta[0];
+const siteMeta: Metadata = Meta.find(meta => meta.page == 'home') || Meta[0];
 
 export const metadata = {
   title: siteMeta.title,
@@ -27,12 +21,12 @@ const HomePage = () => {
           <div className="container mx-auto max-w-5xl p-12 lg:p-16 grid grid-cols-1 gap-10 sm:grid-cols-2">
             <div className="flex flex-col justify-around text-center sm:text-start">
               <h1 className="text-2xl md:text-4xl lg:text-5xl leading-relaxed md:leading-relaxed lg:leading-relaxed">
-                {HomepageData.greeting.text}
+                {Utils.greeting.text}
               </h1>
-              <div className="operation mt-6 sm:mt-0">
+              <div className="mt-6 sm:mt-0">
                 <PrimaryButton
-                  link={HomepageData.greeting.button.href}
-                  text={HomepageData.greeting.button.text}
+                  link={Utils.greeting.button.href}
+                  text={Utils.greeting.button.text}
                 />
               </div>
             </div>
@@ -42,20 +36,37 @@ const HomePage = () => {
           </div>
         </div>
       </div>
-      <div className="">
+      <div className="attractions-section container mx-auto max-w-2xl m-20">
         {MuseumCulturalVenues.map((museum) => (
-          <div key={museum.id}>
-            <Image 
-              src={museum.image} 
-              alt={museum.name} 
-              width={300} 
-              height={300} 
-              key={museum.id} priority
+          <div className="museum-card flex m-5" key={museum.id}>
+            <div className="museum-image m-5 mr-0 relative min-w-1/2">
+              <Image 
+                src={museum.image} 
+                alt={museum.name}
+                sizes="(max-width: 768px) 100vw,
+                  (max-width: 1200px) 50vw,
+                  33vw"
+                fill
+                priority
               />
-            <h1>{museum.name}</h1>
+            </div>
+            <div className="museum-info px-6 py-10 bg-gray-50 dark:bg-gray-700 ">
+              <h1>{museum.name}</h1>
+              <p>{museum.description}</p>
+              <p className="my-4">
+                <LocationIcon />
+                {museum.address}
+              </p>
+              <PrimaryButton
+                link={`${Utils.attractions.button.href}/${museum.slug}`}
+                text={Utils.attractions.button.text}
+              />
+            </div>
           </div>
         ))}
-        <div className="paginations"></div>
+        <div className="paginations">
+          <p><b>1</b> / {MuseumCulturalVenues.length}</p>
+        </div>
       </div>
     </>
   )

@@ -1,15 +1,9 @@
 import Meta from "@/data/meta.json";
 import Libraries from "@/data/libraries.json";
 import Image from "next/image";
+import type { Metadata } from "next";
 
-interface MetaInterface {
-  "page": string,
-  "title": string,
-  "keywords": string,
-  "description": string,
-}
-
-const siteMeta: MetaInterface = Meta.find(meta => meta.page == 'museum-arts-passes') || Meta[1];
+const siteMeta: Metadata = Meta.find(meta => meta.page == 'museum-arts-passes') || Meta[1];
 
 export const metadata = {
   title: siteMeta.title,

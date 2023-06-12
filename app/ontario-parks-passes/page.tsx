@@ -1,13 +1,7 @@
 import Meta from "@/data/meta.json";
+import type { Metadata } from "next";
 
-interface MetaInterface {
-  "page": string,
-  "title": string,
-  "keywords": string,
-  "description": string,
-}
-
-const siteMeta: MetaInterface = Meta.find(meta => meta.page == 'ontario-parks-passes') || Meta[2];
+const siteMeta: Metadata = Meta.find(meta => meta.page == 'ontario-parks-passes') || Meta[2];
 
 export const metadata = {
   title: siteMeta.title,
